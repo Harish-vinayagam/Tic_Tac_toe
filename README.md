@@ -30,10 +30,6 @@ A **restart button** allows players to start a new game instantly.
 ---
 
 ## **How to Run**
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/github-workflow.git
-   cd github-workflow
 
 
 ## What I Learned

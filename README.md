@@ -1,24 +1,40 @@
-# Tic_Tac_toe
+# Tic Tac Toe
 
-# Description
-A React-based Tic Tac Toe game developed as part of a GitHub workflow practice project. The aim of this repository is to demonstrate proper version control habits, including maintaining a clean commit history and making descriptive, meaningful commits directly to the main branch.
+A clean and minimalist **Tic Tac Toe game** built using **HTML, CSS, and JavaScript** to practice GitHub workflows.  
+Developed with the help of **GitHub Copilot**, this project focuses on maintaining a tidy commit history and professional version control practices.
 
-# This project showcases:
+---
 
-A fully functional Tic Tac Toe game built with React.js
+## **Overview**
+This project demonstrates a simple yet engaging **Tic Tac Toe game** with a responsive design.  
+Players alternate turns on a 3×3 grid, and the game automatically detects wins, losses, and draws.  
+A **restart button** allows players to start a new game instantly.
 
-Interactive 3x3 grid, alternating player turns, and win/draw detection
+---
 
-Restart game functionality with a responsive, minimalist UI
+## **Features**
+- **Interactive 3×3 grid**
+- **Player turn switching (X and O)**
+- **Automatic win and draw detection**
+- **Restart game functionality**
+- **Responsive, clean UI**
+- Developed following **clean GitHub workflow practices**
 
-Implementation guided with GitHub Copilot to speed up development
+---
 
-Practice of professional GitHub workflows: atomic commits, clear commit messages, and a tidy repository structure
+## **Tech Stack**
+- **HTML5**
+- **CSS3** for styling
+- **Vanilla JavaScript (ES6)** for game logic
 
-The project highlights both React fundamentals and clean collaboration-ready version control practices.
+---
 
-# GitHub Workflow
-This repository demonstrates a clean GitHub workflow with clear, descriptive commits.
+## **How to Run**
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/your-username/github-workflow.git
+   cd github-workflow
+
 
 ## What I Learned
 - How to create a GitHub repository

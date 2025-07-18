@@ -1,9 +1,9 @@
 # Tic_Tac_toe
 
-Description
+# Description
 A React-based Tic Tac Toe game developed as part of a GitHub workflow practice project. The aim of this repository is to demonstrate proper version control habits, including maintaining a clean commit history and making descriptive, meaningful commits directly to the main branch.
 
-This project showcases:
+# This project showcases:
 
 A fully functional Tic Tac Toe game built with React.js
 
